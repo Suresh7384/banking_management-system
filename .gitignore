@@ -1,0 +1,14 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore account data file
+accounts.txt
+
+# Ignore IntelliJ / Eclipse / VS Code files (optional but recommended)
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+.settings/
+
