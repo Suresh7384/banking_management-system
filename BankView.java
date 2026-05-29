@@ -12,7 +12,7 @@ public class BankView {
         System.out.println("5. Exit");
         System.out.print("Enter choice: ");
         return sc.nextInt();
-    }
+    }    // Get user input for account number, name, and amount
 
     public int getAccountNumber() {
         System.out.print("Enter Account Number: ");
